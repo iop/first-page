@@ -141,3 +141,8 @@
 4. **Поверхні розділяє фон, а не тіні.** Картки мають `ring-1` з `Card`.
 5. **Один рух.** Fade-in сітки при завантаженні і перехід рядка в "Running" після дії. Більше нічого не анімується.
 6. **Без декору.** Кожен елемент сторінки несе інформацію або дію.
+
+## 12. Посилання на макети в Pencil
+@source/design/pencil_0.1.pen
+- **Desktop Frame (1440px):** `Automations Page Desktop` ( node id: `g6bEqU` )
+- **Mobile Frame (375px):** `Automations Page Mobile` ( node id: `MIWkx` )
